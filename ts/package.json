@@ -20,7 +20,9 @@
     "fastify-autoload": "^3.3.1",
     "fastify-cli": "^2.13.0",
     "fastify-plugin": "^3.0.0",
-    "fastify-sensible": "^3.1.0"
+    "fastify-sensible": "^3.1.0",
+    "ipfs": "^0.59.1",
+    "orbit-db": "^0.26.1"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
