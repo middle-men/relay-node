@@ -21,7 +21,7 @@
     "fastify-cli": "^2.13.0",
     "fastify-plugin": "^3.0.0",
     "fastify-sensible": "^3.1.0",
-    "ipfs": "^0.59.1",
+    "ipfs": "^0.55.4",
     "orbit-db": "^0.26.1"
   },
   "devDependencies": {
